@@ -1,0 +1,2 @@
+personname mail@mail.com serverusername  serverpassword serverportnumber
+personname mail@mail.com serverusername  serverpassword serverportnumber

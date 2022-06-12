@@ -1,0 +1,23 @@
+Dear ${PERSON_NAME}, 
+
+Your user on our server nemesys3 is ready. You can find the details on how to login below.
+
+-The user name and user pw below are your details for your user in servername.
+-Set up your VPN using this link: https://my.ozyegin.edu.tr/tr/page/12091
+-Connect to "OzUVPN". You have to do this every time you want to connect to this server.
+-To use VNC Viewer, you must add a New Connection by "File>New Connection".
+-In properties, write "ServerIP:59XX" in "VNC Server" textbox.
+-Change the XX with your port ID.
+-Go into "Options", and chose "Scale to fit to window" in Scaling.
+-Click on OK, and you connection is ready.
+-Double click on it and enter your VNC password that is given below.
+
+user name: ${USER_NAME}
+user pw: ${USER_PW}
+VNC pw: ${VNC_PW} (this is just the first 8 characters of your user pw)
+port ID: ${USER_ID}
+
+Any issues with any of these, you can e-mail me at mail@mail.com
+
+Have a nice day,
+Name Surname
